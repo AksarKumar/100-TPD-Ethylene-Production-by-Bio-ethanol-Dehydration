@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project focuses on the conceptual process design of an ethylene production plant via catalytic dehydration of bioethanol. The objective is to develop a structured understanding of reaction engineering, separation systems, and industrial process integration for sustainable ethylene production.
+This project focuses on the complete process flow scheme and plant design of an ethylene production plant via catalytic dehydration of bioethanol. The objective is to develop a structured understanding of reaction engineering, separation systems, and industrial process integration for sustainable ethylene production.
 
 Target Production Capacity: **100 Tons Per Day (TPD)**
 
@@ -14,8 +14,8 @@ Target Production Capacity: **100 Tons Per Day (TPD)**
 - Develop a complete Process Flow Diagram (PFD)
 - Perform mass and energy balance calculations
 - Design and size key process equipment
-- Analyze reaction conversion and separation efficiency
-- Validate process using simulation software (DWSIM – planned)
+- Validation of process by simulation software (DWSIM – planned)
+- Complete P&ID of production plant
 
 ##The process involves:
 
